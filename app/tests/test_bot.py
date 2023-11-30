@@ -1,3 +1,6 @@
+#Файл test_bot.py содержит юнит-тесты для функциональности Telegram-бота.
+#Он использует библиотеку pytest для написания и запуска тестов.
+
 import pytest
 from bot import TelegramBot
 
