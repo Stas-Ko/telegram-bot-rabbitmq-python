@@ -1,6 +1,6 @@
 
 #Файл bot.py содержит код для создания и настройки Telegram-бота.
-#Он использует библиотеку python-telegram-bot для взаимодействия с Telegram Bot API.
+Он использует библиотеку python-telegram-bot для взаимодействия с Telegram Bot API.
 
 
 import os
