@@ -1,3 +1,6 @@
+#Файл main.py является точкой входа в приложение.
+#Он связывает все компоненты и инициализирует необходимые объекты для запуска приложения.
+
 import asyncio
 from dotenv import load_dotenv
 from bot import TelegramBot
