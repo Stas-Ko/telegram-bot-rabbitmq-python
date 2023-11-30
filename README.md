@@ -1,5 +1,3 @@
-# Название проекта
-
 # telegram-bot-rabbitmq-python
 
 ## Описание
