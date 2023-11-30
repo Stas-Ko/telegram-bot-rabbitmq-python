@@ -48,7 +48,7 @@ tests/: Папка с модульными тестами для основны�
 1. Убедитесь, что у вас установлен Python версии 3.x и Docker.
 
 2. Клонируйте репозиторий проекта:
-git clone https://github.com/Stas-Ko/golang-factorial-calculator.git
+git clone https://github.com/Stas-Ko/telegram-bot-rabbitmq-python.git
 
 3. Перейдите в директорию проекта:
 cd telegram-bot-service
