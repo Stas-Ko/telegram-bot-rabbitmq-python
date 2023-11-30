@@ -1,3 +1,6 @@
+#Файл rabbitmq.py содержит код для взаимодействия с RabbitMQ.
+#Он использует библиотеку pika для отправки и получения сообщений из очереди RabbitMQ.
+
 import os
 import aioamqp
 
