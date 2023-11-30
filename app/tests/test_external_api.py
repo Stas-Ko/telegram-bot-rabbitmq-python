@@ -1,3 +1,6 @@
+#Файл test_external_api.py содержит юнит-тесты для взаимодействия с внешним API.
+#Он использует библиотеку pytest для написания и запуска тестов.
+
 import pytest
 import requests_mock
 from external_api import send_message_to_external_api
