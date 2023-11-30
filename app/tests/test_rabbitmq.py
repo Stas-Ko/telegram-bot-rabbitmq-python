@@ -1,3 +1,6 @@
+#Файл test_rabbitmq.py содержит юнит-тесты для взаимодействия с RabbitMQ.
+#Он использует библиотеку pytest для написания и запуска тестов.
+
 import pytest
 from rabbitmq import RabbitMQConsumer
 
